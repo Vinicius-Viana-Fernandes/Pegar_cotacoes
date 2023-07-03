@@ -12,6 +12,7 @@ O script faz uma requisição HTTP para a API, processa a resposta JSON e exibe 
    ```shell
    pip install requests
 
-Em seguida, execute o script usando o seguinte comando: python cotador_moedas.py
+Em seguida, execute o script usando o seguinte comando: 
+python cotador_moedas.py
 
 O script irá fazer a requisição à API e exibir as cotações de dólar, euro e bitcoin na saída.
