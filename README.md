@@ -5,14 +5,15 @@ O script faz uma requisição HTTP para a API, processa a resposta JSON e exibe 
 ## Como usar
 
 1. Certifique-se de ter o Python instalado em seu sistema.
-2. Clone este repositório ou faça o download do arquivo `cotador_moedas.py`.
-3. Abra um terminal ou prompt de comando e navegue até o diretório onde o arquivo `cotador_moedas.py` está localizado.
+2. Clone este repositório ou faça o download do arquivo `cotacao.py`.
+3. Abra um terminal ou prompt de comando e navegue até o diretório onde o arquivo `cotacao.py` está localizado.
 4. Execute o seguinte comando para instalar as dependências:
 
    ```shell
    pip install requests
 
 Em seguida, execute o script usando o seguinte comando: 
-python cotador_moedas.py
+
+python cotacao.py
 
 O script irá fazer a requisição à API e exibir as cotações de dólar, euro e bitcoin na saída.
